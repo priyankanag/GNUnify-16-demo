@@ -19,7 +19,7 @@ server.listen(8000);
 
 function sendPushNotifications() {
 	var message={registration_ids: [config.pushNotifications.deviceId],data:{message: "hi All"}};
-	console.log("senging:tsest  ");
+	console.log("senging:testGITTraining");
 	var options = {
 		url: 'https://android.googleapis.com/gcm/send',
 		headers:{
