@@ -1,7 +1,7 @@
 {
   "name": "zodiac",
   "version": "0.0.1",
-  "description": "something",
+  "description": "GIT Training W/o Forking.",
   "main": "./index.js",
   "engines": {
     "node": ">=0.10"
